@@ -1,0 +1,3 @@
+﻿  server.cpp
+f:\vcnorproject\2\server\server\server.cpp(155): warning C4715: “logreg”: 不是所有的控件路径都返回值
+  Server.vcxproj -> F:\vcnorproject\2\Server\Debug\Server.exe
